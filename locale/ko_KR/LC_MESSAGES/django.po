@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: bookwyrm\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-01-02 03:27+0000\n"
-"PO-Revision-Date: 2024-02-06 05:49\n"
+"PO-Revision-Date: 2024-02-06 07:38\n"
 "Last-Translator: Mouse Reeve <mousereeve@riseup.net>\n"
 "Language-Team: Korean\n"
 "Language: ko\n"
@@ -2013,7 +2013,7 @@ msgstr "팔로우할 만한 이"
 
 #: bookwyrm/templates/feed/suggested_users.html:9
 msgid "Don't show suggested users"
-msgstr "이용자 제안 보이지 않기"
+msgstr "추천 이용자 보지 않음"
 
 #: bookwyrm/templates/feed/suggested_users.html:14
 msgid "View directory"
@@ -2176,7 +2176,7 @@ msgstr "수동으로 팔로워 승인:"
 
 #: bookwyrm/templates/get_started/profile.html:58
 msgid "Show this account in suggested users:"
-msgstr ""
+msgstr "이 계정을 추천 이용자에 보이기:"
 
 #: bookwyrm/templates/get_started/profile.html:62
 msgid "Your account will show up in the directory, and may be recommended to other BookWyrm users."
@@ -2636,7 +2636,7 @@ msgstr ""
 
 #: bookwyrm/templates/guided_tour/lists.html:106
 msgid "List curation"
-msgstr "리스트 큐레이션"
+msgstr "목록 큐레이션"
 
 #: bookwyrm/templates/guided_tour/lists.html:128
 msgid "Next in our tour we will explore Groups!"
@@ -2911,7 +2911,7 @@ msgstr "가져온 평가의 개인정보처리 설정"
 #: bookwyrm/templates/import/import_user.html:157
 #: bookwyrm/templates/settings/federation/instance_blocklist.html:78
 msgid "Import"
-msgstr ""
+msgstr "가져오기"
 
 #: bookwyrm/templates/import/import.html:108
 #: bookwyrm/templates/import/import_user.html:158
@@ -3161,7 +3161,7 @@ msgstr ""
 
 #: bookwyrm/templates/import/import_user.html:101
 msgid "Your timezone"
-msgstr ""
+msgstr "내 시간대"
 
 #: bookwyrm/templates/import/import_user.html:104
 msgid "Your default post privacy setting"
@@ -3201,7 +3201,7 @@ msgstr ""
 
 #: bookwyrm/templates/import/import_user.html:145
 msgid "Book lists"
-msgstr ""
+msgstr "책 목록"
 
 #: bookwyrm/templates/import/import_user.html:148
 msgid "Saved lists"
@@ -3272,11 +3272,11 @@ msgstr "최근 도서"
 
 #: bookwyrm/templates/landing/layout.html:17
 msgid "Decentralized"
-msgstr "탈중앙화한"
+msgstr "탈중앙화"
 
 #: bookwyrm/templates/landing/layout.html:23
 msgid "Friendly"
-msgstr "친화"
+msgstr "친근함"
 
 #: bookwyrm/templates/landing/layout.html:29
 msgid "Anti-Corporate"
@@ -3494,7 +3494,7 @@ msgstr ""
 
 #: bookwyrm/templates/lists/form.html:19
 msgid "List curation:"
-msgstr "리스트 큐레이션:"
+msgstr "목록 큐레이션:"
 
 #: bookwyrm/templates/lists/form.html:31
 msgid "Closed"
@@ -4354,11 +4354,11 @@ msgstr ""
 
 #: bookwyrm/templates/preferences/edit_user.html:75
 msgid "Show suggested users"
-msgstr "제안된 이용자 보여주기"
+msgstr "추천 이용자 보기"
 
 #: bookwyrm/templates/preferences/edit_user.html:81
 msgid "Show this account in suggested users"
-msgstr ""
+msgstr "이 계정을 추천 이용자에 보이기"
 
 #: bookwyrm/templates/preferences/edit_user.html:85
 #, python-format
