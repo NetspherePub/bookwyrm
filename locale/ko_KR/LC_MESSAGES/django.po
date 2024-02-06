@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: bookwyrm\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-01-02 03:27+0000\n"
-"PO-Revision-Date: 2024-02-06 07:38\n"
+"PO-Revision-Date: 2024-02-06 07:51\n"
 "Last-Translator: Mouse Reeve <mousereeve@riseup.net>\n"
 "Language-Team: Korean\n"
 "Language: ko\n"
@@ -3285,7 +3285,7 @@ msgstr "반기업"
 #: bookwyrm/templates/landing/layout.html:46
 #, python-format
 msgid "Join %(name)s"
-msgstr "%(name)s 님이 참여함"
+msgstr "%(name)s 서버에서 참여하기"
 
 #: bookwyrm/templates/landing/layout.html:48
 msgid "Request an Invitation"
@@ -6705,7 +6705,7 @@ msgstr ""
 
 #: bookwyrm/templates/snippets/register_form.html:18
 msgid "Choose wisely! Your username cannot be changed."
-msgstr ""
+msgstr "신중히 고르세요! 이용자명은 바꿀 수 없어요."
 
 #: bookwyrm/templates/snippets/register_form.html:66
 msgid "Sign Up"
